@@ -11,5 +11,4 @@
  
 
 
-<a href="https://github.com/CaoMengLong/PrinterMonitorLib/wiki/%E5%A6%82%E4%BD%95%E5%9C%A8C%23%E9%A1%B9%E7%9B%AE%E4%B8%AD%E4%BD%BF%E7%94%A8-PrinterMonitorLib">如何在C#项目中使用 PrinterMonitorLib</a>
-
+<a href="http://git.oschina.net/caomenglong/PrinterMonitorLib/wikis/%E5%A6%82%E4%BD%95%E5%9C%A8C%23%E9%A1%B9%E7%9B%AE%E4%B8%AD%E4%BD%BF%E7%94%A8-PrinterMonitorLib-">如何在C#项目中使用 PrinterMonitorLib</a>
