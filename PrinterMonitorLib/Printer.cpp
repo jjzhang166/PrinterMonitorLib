@@ -3,7 +3,7 @@
 #include "windows.h"
 #include "winspool.h"
 #include <stdlib.h>
-#include <cstring>
+
 using namespace std;
 
 int print_jobs =0; //当前打印机任务数量
